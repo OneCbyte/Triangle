@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 #include "triangle.h"
 
 int Triangle::get_a() { return a; };
