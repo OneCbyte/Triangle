@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+.vs/
+Debug/
+Release/
+x64/
+packages/
+*.exe
+*.obj
+=======
 # Prerequisites
 *.d
 
@@ -67,3 +76,4 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+>>>>>>> b5e24341d0c0e31bd8c411e98aa2effeba70bf93
