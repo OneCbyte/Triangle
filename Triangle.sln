@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решен
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TriangleLib", "TriangleLib\TriangleLib.vcxproj", "{419BFE25-1E80-4AB3-B893-C443A19B1ACF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TriangleTest", "TriangleTest\TriangleTest.vcxproj", "{DA99F291-A7BC-4895-AD55-8A9A5F4430BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -36,6 +38,14 @@ Global
 		{419BFE25-1E80-4AB3-B893-C443A19B1ACF}.Release|x64.Build.0 = Release|x64
 		{419BFE25-1E80-4AB3-B893-C443A19B1ACF}.Release|x86.ActiveCfg = Release|Win32
 		{419BFE25-1E80-4AB3-B893-C443A19B1ACF}.Release|x86.Build.0 = Release|Win32
+		{DA99F291-A7BC-4895-AD55-8A9A5F4430BD}.Debug|x64.ActiveCfg = Debug|x64
+		{DA99F291-A7BC-4895-AD55-8A9A5F4430BD}.Debug|x64.Build.0 = Debug|x64
+		{DA99F291-A7BC-4895-AD55-8A9A5F4430BD}.Debug|x86.ActiveCfg = Debug|Win32
+		{DA99F291-A7BC-4895-AD55-8A9A5F4430BD}.Debug|x86.Build.0 = Debug|Win32
+		{DA99F291-A7BC-4895-AD55-8A9A5F4430BD}.Release|x64.ActiveCfg = Release|x64
+		{DA99F291-A7BC-4895-AD55-8A9A5F4430BD}.Release|x64.Build.0 = Release|x64
+		{DA99F291-A7BC-4895-AD55-8A9A5F4430BD}.Release|x86.ActiveCfg = Release|Win32
+		{DA99F291-A7BC-4895-AD55-8A9A5F4430BD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
