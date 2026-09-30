@@ -5,19 +5,19 @@ private:
 	int a, h;
 	double S;
 public:
-	// По умолчанию
+	// ГЏГ® ГіГ¬Г®Г«Г·Г Г­ГЁГѕ
 	Triangle() : a(0), h(0) {}
 
-	// инициализация 
-	Triangle(int side, int height) : a(side), h(height) {}
+	// ГЁГ­ГЁГ¶ГЁГ Г«ГЁГ§Г Г¶ГЁГї 
+	Triangle(int side, int height);
 
-	// гетеры
-	int get_a();
-	int get_h();
+	// ГЈГҐГІГҐГ°Г»
+	int get_a() const;
+	int get_h() const ;
 
-	// сеттеры
+	// Г±ГҐГІГІГҐГ°Г»
 	void set_a(int side);
 	void set_h(int height);
 
-	double get_S();
+	double get_S() const;
 };
